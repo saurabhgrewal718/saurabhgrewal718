@@ -41,7 +41,7 @@
 [twitter]: https://twitter.com/saurabh2grewal
 [youtube]: https://www.youtube.com/channel/UCDckZvOEZIzqQSQvtIjFwwQ/
 [instagram]: https://instagram.com/iamsaurabhgrewal
-[linkedin]: https://linkedin.com/in/saurabhgrewal718
+[linkedin]: https://www.linkedin.com/in/saurabhgrewal/
 [next]: https://github.com/saurabhgrewal718/video-streaming-site-hulu-clone-
 [javascript]: https://github.com/saurabhgrewal718?tab=repositories&q=&type=&language=javascript&sort=
 [flutter]: https://github.com/saurabhgrewal718?tab=repositories&q=&type=&language=dart&sort=
