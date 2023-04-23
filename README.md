@@ -4,9 +4,9 @@
 
 - 🌍 I have keen interests in ML and Creating Immersive Web experiences
 - 🌱 I’m currently learning three.js and Webgl 🌻
-- ✨ I have created some cool apps combining Flutter and Machine Learning 
+- ✨ I have created some cool webapps in Angular,Node and Springboot 
 - 🔭 I’m looking to collaborate and learn form WebGl and ML communities
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ I love to Make short movies and documentaries
 
 ### Connect with me:
