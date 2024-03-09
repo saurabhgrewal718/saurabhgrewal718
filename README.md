@@ -32,7 +32,7 @@
 [<img align="left" alt="MySql" width="26px" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="Flutter" width="26px" src="http://hafizmokhtar.com/wp-content/uploads/2020/07/flutter_logo.png" />]
+[<img align="left" alt="Flutter" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8o2se9-HtmmjvmbKnZkxQSDDxe6apb8CGPu6eryk&s" />]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Gatsby" width="26px" src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" />]
@@ -41,3 +41,14 @@
 
 <br />
 <br />
+
+
+[linkedin]: https://www.linkedin.com/in/saurabhgrewal/
+[twitter]: https://twitter.com/saurabh2grewal
+[youtube]: https://www.youtube.com/@saurabhgrewal8091
+
+[redis]: [https://www.linkedin.com/in/saurabhgrewal/](https://redis.io/)
+[node.js]: [https://twitter.com/saurabh2grewal](https://nodejs.org/en)
+[typescript]: [https://www.youtube.com/@saurabhgrewal8091](https://www.typescriptlang.org/)
+[javascript]: [[https://www.linkedin.com/in/saurabhgrewal/](https://redis.io/)](https://www.javascript.com/)
+[dynamoDB]: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
