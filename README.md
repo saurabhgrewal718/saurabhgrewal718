@@ -46,9 +46,3 @@
 [linkedin]: https://www.linkedin.com/in/saurabhgrewal/
 [twitter]: https://twitter.com/saurabh2grewal
 [youtube]: https://www.youtube.com/@saurabhgrewal8091
-
-[redis]: [https://www.linkedin.com/in/saurabhgrewal/](https://redis.io/)
-[node.js]: [https://twitter.com/saurabh2grewal](https://nodejs.org/en)
-[typescript]: [https://www.youtube.com/@saurabhgrewal8091](https://www.typescriptlang.org/)
-[javascript]: [[https://www.linkedin.com/in/saurabhgrewal/](https://redis.io/)](https://www.javascript.com/)
-[dynamoDB]: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html
