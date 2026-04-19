@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Golang and How to scale systems to millions of users?  🌻
 - ✨ I have created some cool webapps in Node and Springboot and Angular, Portfolio is in React :)  
 - 🔭 I’m looking to collaborate and learn from Golang and Backend Dev communities
-- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ I love to Make short movies and documentaries
 
 ### Connect with me:
